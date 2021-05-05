@@ -1,2 +1,2 @@
 # Circa.IMO.beta.news
- News app - Components and Dependancies for IOS news app beta
+Simple news mobile application created with Swift and Newsapi.org
